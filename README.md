@@ -35,7 +35,9 @@ For all your cybersecurity jargon decoding and acronym-detangling needs, because
 - **OSINT** = **Open Source Intelligence.** The public knowledge base and public data that surrounds a specific intelligence area.
 - **PCI-DSS** = **Payment Card Industry Data Security Standard.** The security standards and compliance checklist around processing, accepting, storing, and transmitting credit card information.
 - **PII** = **Personally Identifying Information.** Any sensitive and potentially valuable data that belongs to an individual person, including their full name, birthday, Social Security Number, address, phone number, email address, etc. Attackers will often seek out an organization's customer and client PII in order to gather it and trade it for financial gain.
+- **SaaS** = **Software As A Service.**
 - **SANS** = **System Administration, Networking, and Security Institute.** A private company that releases security certifications and provides security training.
+- **SIEM** = **Security Information and Event Management.**
 - **SOC** = **Security Operations Center.** A central building, location or team within an organization that is responsible for monitoring, assessing and defending against security risks and attackers.
 - **SSO** = **Single Sign-On.** A system which enables users to securely authenticate themselves with multiple applications and websites by logging in with a single set of credentials. If you've ever hit the "Log in with Google" button when logging in instead of entering a username and password, you have used SSO.
 - **TTP** = **Tactics, Techniques and Procedures.** The methods that attackers will try to use to get into your system. Attackers will constantly be attempting to innovate new methods, so new TTPs are always being discovered and released.
